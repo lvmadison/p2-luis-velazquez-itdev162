@@ -22,16 +22,14 @@ Uses project template for creating an ASP.NET core application with an example C
 
 USES .NET 6.0 (long term support)
 
-Entity Framework
+Entity Framework 6 (EF6)
 
 SQL Database migration + integration – Database can be changed.
 
 
 ## Requirements:
 
-.NETASP 6.0 
-
-
+.NETASP 6.0 (.NET Framework and not .NET Core). 
 
 
 
